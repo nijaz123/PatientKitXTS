@@ -77,6 +77,9 @@
     <Compile Include="POUs\branch.TcPOU">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="POUs\branch2.TcPOU">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="POUs\git_Test.TcPOU">
       <SubType>Code</SubType>
     </Compile>
