@@ -80,12 +80,6 @@
     <Compile Include="POUs\MAIN.TcPOU">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="POUs\mainBranch.TcPOU">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="POUs\originRepo2.TcPOU">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="POUs\XTS\Administrative\ErrorMover.TcPOU">
       <SubType>Code</SubType>
     </Compile>
